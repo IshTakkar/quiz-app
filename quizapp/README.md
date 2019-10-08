@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter project.
+This is a simple quizzing app made in Flutter which extracts the questions from the API of opentdb.com
 
 ## Getting Started
 
